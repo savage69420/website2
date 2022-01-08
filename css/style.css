@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+hr {
+    border: dotted #2F3A8F 6px;
+    border-bottom: 0px;
+    width: 30%;
+} 
+
+h2,
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: #FE7E6D;
+}
+
+h1 {
+    margin: 100px auto -10px auto;
+    display: inline-block;
+    font-size: 562.5%;
+    font-family: 'Sacramento', cursive;
+    color: #2F3A8F;
+}
+
+.top-container {
+    background-color: #FEECE9;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.middle-container {
+    background-color: #CCD1E4;
+
+
+}
+
+.skill-row {
+    background-color: #CCD1E4;
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.profile {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    padding-top: 100px;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+
+
+}
+
+.top-cloud {
+    position: absolute;
+    top: 45px;
+    right: 450px;
+}
+
+.contact-me {
+    padding-bottom: 50px;
+}
+
+.skills {
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+.mountain {
+    position: relative;
+    bottom: auto;
+}
+
+.skills {
+    background-color: #CCD1E4;
+    margin: 0;
+
+}
+
+.skillim {
+
+    width: 50%;
+    float: left;
+
+    margin-right: 30px;
+}
+
+.skillim1 {
+
+    width: 50%;
+    float: right;
+
+    margin-left: 30px;
+}
+
+.getin {
+    width: 25%;
+}
+
+.bottom-container {
+    background-color: #CCD1E4;
+
+    padding: 0px 30px 15px;
+}
+
+.amd{
+    padding-bottom: 30px;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.pskills {
+    line-height: 2;
+    padding-bottom: 30px;
+    
+}
+
+.intro{
+    width: 20%;
+    margin: auto;
+    line-height: 2;
+    padding-bottom: 30px;
+}
+
+.btn {
+    background: #0099ff;
+    background-image: -webkit-linear-gradient(top, #0099ff, #0eb54b);
+    background-image: -moz-linear-gradient(top, #0099ff, #0eb54b);
+    background-image: -ms-linear-gradient(top, #0099ff, #0eb54b);
+    background-image: -o-linear-gradient(top, #0099ff, #0eb54b);
+    background-image: linear-gradient(to bottom, #0099ff, #0eb54b);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    text-shadow: 2px 1px 3px #ad15ad;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    top: 30px;
+    right: -2px;
+    bottom: -30px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+a{
+    padding: 0 10px 0;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #2F3A8F;
+}
+a:hover{
+    color: whitesmoke;
+}
+.btn:hover {
+    background: #ff000d;
+    background-image: -webkit-linear-gradient(top, #ff000d, #000000);
+    background-image: -moz-linear-gradient(top, #ff000d, #000000);
+    background-image: -ms-linear-gradient(top, #ff000d, #000000);
+    background-image: -o-linear-gradient(top, #ff000d, #000000);
+    background-image: linear-gradient(to bottom, #ff000d, #000000);
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #FE7E6D;
+    
+    
+}
+
+.mdc{
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
